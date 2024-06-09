@@ -1,1 +1,3 @@
+![Use case diagram](https://github.com/khaledkamr/Software-engineering-project/assets/94804298/df4f2964-e50b-4052-991f-06ecf0a57881)
+
 The use case diagram illustrates the interactions between various actors and the airline ticketing system. The main actors involved are the Customer, Travel Agent, and Airline Counter, each performing specific actions related to booking and canceling airline tickets. The diagram outlines the processes of booking tickets online, through an agent, or at the counter, as well as canceling bookings and handling payment transactions. The interactions include inquiries, filling out details, making payments, updating the database, and receiving refunds upon cancellation.
