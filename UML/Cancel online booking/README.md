@@ -1,0 +1,11 @@
+# Use case modeling
+## Use case description
+### 2. Cancel online booking:
+| Function | Cancel online booking |
+|----------|-----------------------|
+| Description | Process by which a passenger cancels a previously made booking through the airline's online booking system. |
+| Input | Canceling an online booking involves specific inputs from the passenger. Initially, the passenger must provide identification details, such as their name and booking reference number. Additionally, they input the reason for cancellation, which could include personal reasons, schedule changes, or unforeseen circumstances. These inputs are crucial for the system to identify and process the cancellation request accurately. |
+| Output | Upon successful cancellation of an online booking, the primary output is a cancellation confirmation. This confirmation serves as proof that the booking has been successfully canceled. Additionally, the system may issue a refund confirmation if applicable. These outputs are essential for both the passenger and the booking system to confirm the cancellation and manage associated changes. |
+| Action | The actions involved in canceling an online booking include the passenger accessing the booking management section of the website or application. Here, they enter their identification details and booking reference number. Subsequently, the passenger selects the booking to be canceled and provides a reason for cancellation. After confirming the cancellation, the system processes the request, updates relevant records, and issues a cancellation confirmation. If applicable, the system calculates and processes a refund.
+| Pre-condition | The passenger has a valid booking reference number for the reservation to be canceled. The passenger has a clear reason for canceling the reservation |
+| Post condition | The booking system updates its records, marking the canceled reservation. The passenger receives a cancellation confirmation. If applicable, the system processes a refund. Financial transactions are updated to reflect the refund. Seat availability and flight records are adjusted to reflect the cancellation, ensuring accurate data for future bookings |

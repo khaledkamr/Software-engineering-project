@@ -1,0 +1,11 @@
+# Use case modeling
+## Use case description
+### 1. Book ticket online
+| Function | Book ticket online |
+|----------|--------------------|
+| Description | This use case describes the process of a user booking an airline ticket online through a web-based booking system. |
+| Input | The online ticket booking process involves several key inputs. Firstly, the passenger provides personal details such as their name and contact information. Subsequently, they input their flight preferences, including the desired date, destination,class, and the number of passengers. Finally, the passenger enters payment information, which typically includes credit card details for transaction processing. |
+| Output | Upon successful completion of the online ticket booking process, several outputs are generated. The primary output is a booking confirmation, acknowledging the successful reservation. Additionally, the system generates an electronic ticket, serving as the official document for the booked flight. These outputs are crucial for both the passenger and the booking system to track and confirm the reservation. |
+| Action | The actions involved in the online ticket booking process encompass a series of steps. Firstly, the passenger selects a preferred flight based on specific criteria. Following this, they provide personal information and choose seats for the journey. The passenger then confirms the booking details, initiating the payment process. Subsequently, they enter their credit card information, and the system securely processes the payment. Upon successful payment, the booking system generates an electronic ticket. Finally, the system sends a confirmation notification to the passenger, completing the booking process.
+| Pre-condition | The passenger has access to the internet and a device capable of making online transactions. The passenger has selected a flight based on preferences. |
+| Post condition | The booking system records the reservation details. The passenger receives a booking confirmation along with the electronic ticket.The system updates seat availability and flight records.|
